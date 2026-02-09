@@ -1,0 +1,7 @@
+ Here are three clean options I can create right away (tell me which one, or give a different name):
+
+test-branch-one (kebab-case)
+test_branch_one (snake_case)
+feature/test-branch-one (namespaced) 
+
+this is appended text
